@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+}
+.class1{
+    text-align: center;
+    font-size: 25px;
+    padding: 20px;
+    margin: 20px;
+    background-color: red;
+}
+.class2{
+    padding: 20px;
+    margin: 20px;
+    background-color: blue;
+}
+.cuadro1{
+    margin: 20px;
+    padding: 20px;
+    background-color: orange;
+    border: 3px solid rgb(241, 15, 26);
+}
+.cuadro2{
+    margin: 20px;
+    padding: 20px;
+    background-color: purple;
+    border: 3px solid rgb(241, 15, 26);
+}
+.class3{
+    padding: 20px;
+    margin: 20px;
+    background-color: green;
+}
+.class4{
+    text-align: center;
+    font-size: 25px;  
+    padding: 20px;
+    margin: 20px;
+    background-color: rgb(6, 251, 255);
+}
+.cuadro3{
+    margin: 20px;
+    padding: 20px;
+    background-color: pink;
+    border: 3px solid rgb(241, 15, 26);
+}
+.one{
+    background-color: red;
+    border-radius: 50%;
+    padding: 100px;
+    margin: 50px;
+}
+.two{
+    background-color: rgb(246, 254, 0);
+    border-radius: 100%;
+    padding: 150px;
+  
+}
+.three{
+    background-color: rgb(0, 255, 0);
+    border-radius: 100%;
+    padding: 10px;
+    text-align: center;
+    
+}
